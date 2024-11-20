@@ -1,6 +1,6 @@
 # auto-shake-fisch
 
-auto-shake-fisch is a simple Python script for [Fisch](https://www.roblox.com/games/16732694052/Fisch). It uses image recognition and can be toggled on or off with the `F8` key. If you encounter any bugs, feel free to reach out to me at [@slayhoez](https://discord.com/1269379885181173803) on Discord.
+auto-shake-fisch is a simple Python script for [Fisch](https://www.roblox.com/games/16732694052/Fisch). It uses image recognition and can be toggled on or off with the `F8` key. If you encounter any bugs, feel free to reach out to me at [@slayhoez](https://discord.com/users/1269379885181173803) on Discord.
 
 ## How to use
 
