@@ -1,4 +1,4 @@
-import pyautogui, keyboard, win32api, asyncio
+import pyautogui, keyboard, asyncio, autoit
 
 running = False
 
@@ -17,9 +17,9 @@ async def find(image_path, confidence: float = 0.8):
 
                 if last_location != center:
                     last_location = center
-                    win32api.SetCursorPos((center.x, center.y))
-                    await asyncio.sleep(0.3) # you can change this
-                    pyautogui.click()
+                    await asyncio.sleep(0.1) # you can change this
+                    autoit.mouse_click("left", center.x, center.y, speed=-10000)
+                    await asyncio.sleep(0.23)
 
         except Exception:
             await asyncio.sleep(0.1)
