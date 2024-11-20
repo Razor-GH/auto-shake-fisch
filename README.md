@@ -16,7 +16,7 @@ Before running the script, you need to install the following dependencies:
    git clone https://github.com/toseina/auto-shake-fisch.git
    ```
 
-3. **Install required libraries**: Run `setup.bat` to install required libraries. This will automatically install necessary Python libraries.
+3. **Install required libraries**: Run `setup.bat`. This will automatically install necessary Python libraries.
 
 4. **Run the script**:
 
