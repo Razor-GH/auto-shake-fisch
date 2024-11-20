@@ -26,5 +26,4 @@ Before running the script, you need to install the following dependencies:
 
 ## Notes
 - The image (like `shake.png`) needs to be placed in the same folder as `main.py`, or you can specify its path in the script.
-- For the script to work, you'll need to shake your mouse. It's not my fault, blame Roblox.
 - Press `F8` to start or stop the script.
